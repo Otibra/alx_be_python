@@ -12,7 +12,7 @@ elif operation =="*":
     print(f"The result is {result}.")
 elif operation =="/":
     if num2 == 0:
-        print("Devision by zero not allowed")
+        print("Cannot divide by zero")
     else:
         result = num1 / num2
         print(f"The result is {result}.")
