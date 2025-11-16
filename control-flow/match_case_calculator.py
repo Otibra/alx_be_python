@@ -11,7 +11,7 @@ elif operation =="*":
     result = first number * second number
     print(f"The result is {result}.")
 elif operation =="/":
-    if num2 == 0:
+    if second number == 0:
         print("Cannot divide by zero")
     else:
         result = first number / second number
